@@ -1,5 +1,5 @@
-![](https://www.worldautomation.net/images/home_logo.png)
-# WorldAutomation.Net Launcher V2 #
+![](https://i1.wp.com/www.worldautomation.net/wp-content/uploads/2018/11/web.png?w=150)
+# WA-Launcher #
 
 Here you can download the source of the WorldAutomation.Net launcher.
 
