@@ -5,7 +5,7 @@ Here you can download the source of the WorldAutomation.Net launcher.
 
 Feedback, complaints and content contributions are welcome.
 
-## Features: ##
+## Features ##
 - [x] 100% fully implemented version'ed update system. No more long waits like most Technic packs.
 - [x] Secret "Pack Code" instance support.
 - [x] Auto-updating.
