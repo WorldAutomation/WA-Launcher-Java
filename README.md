@@ -17,6 +17,7 @@ Feedback, complaints and content contributions are welcome.
 
 ## Latest Builds (Pending) ##
 To avoid having issues with Git, we no longer store builds in the repository.
+
 Even though the launcher works properly on 32-bit OS and Java versions, the modpack itself does not.
 
 ⛏ [Windows Launcher (32/64bit)](https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.exe)
