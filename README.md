@@ -19,13 +19,13 @@ Feedback, complaints and content contributions are welcome.
 To avoid having issues with Git, we no longer store builds in the repository.
 Even though the launcher works properly on 32-bit OS and Java versions, the modpack itself does not.
 
-⛏ Windows Launcher (32/64bit)<br /> [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.exe]
+⛏ Windows Launcher (32/64bit)<br /><br /> [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.exe]
 
 Platform: Windows XP, 7, 8, 10+ Installer<br />
 Requirements: Java 8+<br />
 Works on all versions of Windows 32bit or 64bit.
 
-⛏ Universal Launcher (32/64bit)<br /> [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.jar]
+⛏ Universal Launcher (32/64bit)<br /><br />  [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.jar]
 
 Platform: Java Portable Executable<br />
 Requirements: Java 8+<br />
@@ -34,5 +34,3 @@ Universal Jar file. Works on all operating systems but it does not have an icon.
 ## Building the Source Manually ##
 
 Simple. Just run download the source, and run the build.bator build.sh on Linux and OSX.
-
-<img src="http://s20.postimg.org/jpwenxavx/screenshot_311.png" style="width:100%;">
