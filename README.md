@@ -19,13 +19,13 @@ Feedback, complaints and content contributions are welcome.
 To avoid having issues with Git, we no longer store builds in the repository.
 Even though the launcher works properly on 32-bit OS and Java versions, the modpack itself does not.
 
-<img src="http://s33.postimg.org/g04f4fg0f/win.png" style="display:inline;"> Windows Launcher (32/64bit)<br /> [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.exe]
+❖ Windows Launcher (32/64bit)<br /> [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.exe]
 
 Platform: Windows XP, 7, 8, 10+ Installer<br />
 Requirements: Java 7+<br />
 Works on all versions of Windows 32bit or 64bit.
 
-<img src="http://s33.postimg.org/nveyj8pn3/universal.png" style="display:inline;"> Universal Launcher (32/64bit)<br /> [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.jar]
+🐧 Universal Launcher (32/64bit)<br /> [https://github.com/worldautomation/WA-Launcher-Pack/raw/master/build%20tools/WorldAutomation.jar]
 
 Platform: Java Portable Executable<br />
 Requirements: Java 7+<br />
